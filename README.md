@@ -1,6 +1,6 @@
 # typescript-rest-api-auth-roles
 
-This project implements a **REST API** with **token authentication** and **user/group based authorization**.
+This project implements a **REST API** with **token authentication**, **user/group based authorization** with permissions defined in the database. It uses TypeORM as the Object Relational Mapper, and typeorm-extensions to seed the database with basic information.
 
 ## Front-end
 
