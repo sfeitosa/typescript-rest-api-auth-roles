@@ -37,4 +37,4 @@ Then, you can start the development server:
 $ yarn dev
 ```
 
-After these steps, the server will be listening for connections on the url [http://localhost:3000](http://localhost:3000). 
+After these steps, the server will be listening for connections on the url [http://localhost:3001](http://localhost:3001). You can use Postman (or a similar tool) to test the endpoints, or the front-end implementation mentioned earlier.
