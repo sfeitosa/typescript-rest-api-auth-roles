@@ -12,7 +12,9 @@ To start this project you have to follow some steps.
 
 First, we need to create the migrations to generate the database script.
 
-  $ yarn migration:generate
+```
+$ yarn migration:generate
+
 
 Then, we need to run the migrations to create the database schema. 
 
