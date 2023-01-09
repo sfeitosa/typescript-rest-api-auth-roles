@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+.yarn/
+node_modules/
+build/
+tmp/
+temp/
+src/migrations/
+.editorconfig
+db.sqlite3
+yarn.lock
