@@ -36,3 +36,5 @@ Then, you can start the development server:
 ```console
 $ yarn dev
 ```
+
+After these steps, the server will be listening for connections on the url [http://localhost:3000](http://localhost:3000). 
